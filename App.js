@@ -15,6 +15,9 @@ const App = () => {
       <Contact />
     </View>
   );
+
+
+
 };
 
 const styles = StyleSheet.create({
